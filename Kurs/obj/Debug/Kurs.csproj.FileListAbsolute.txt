@@ -1,0 +1,12 @@
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\obj\Debug\Kurs.csprojAssemblyReference.cache
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\obj\Debug\Kurs.Properties.Resources.resources
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\obj\Debug\Kurs.csproj.GenerateResource.cache
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\obj\Debug\Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\bin\Debug\Kurs.exe.config
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\bin\Debug\Kurs.exe
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\bin\Debug\Kurs.pdb
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\obj\Debug\Kurs.exe
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\obj\Debug\Kurs.pdb
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\obj\Debug\Kurs.Form1.resources
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\obj\Debug\Kurs.reg.resources
+C:\Users\Андрюха Стопка\Documents\Kursov\Kurs\Kurs\obj\Debug\Kurs.osnov.resources
